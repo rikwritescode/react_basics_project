@@ -26,8 +26,8 @@ Before running the application, ensure you have the following software installed
 
 To start the application, run the following command:
 
-1. npm start
-2. Visit http://localhost:3000 in your web browser to view the app.
+1. for now , run following command: npm run dev
+2. Visit the shown link in your web browser to view the app.
 
 Built with:
 - React - JavaScript library for building user interfaces.
